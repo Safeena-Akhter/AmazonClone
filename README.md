@@ -33,7 +33,7 @@ To run this project locally:
 <br>
 <h2>Clone the repository:</h2>
 <br>
-git clone https://github.com/yourusername/AmazonClone.git
+git clone https://github.com/Safeena-Akhter/AmazonClone.git
 <br>
 <h2>Navigate to the project directory:</h2>
 <br>
