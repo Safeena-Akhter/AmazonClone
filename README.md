@@ -27,30 +27,40 @@ Interactive hover effects on various elements like buttons, product cards, and l
 <br>
 Consistent use of CSS for layout, colors, and fonts to closely match Amazon’s visual style.
 <br>
-Installation
+<h2>Installation</h2>
+<br>
 To run this project locally:
-
-Clone the repository:
-bash
-Copy code
+<br>
+<h2>Clone the repository:</h2>
+<br>
 git clone https://github.com/yourusername/AmazonClone.git
-Navigate to the project directory:
-bash
-Copy code
+<br>
+<h2>Navigate to the project directory:</h2>
+<br>
 cd AmazonClone
+<br>
 Open index.html in your browser to view the site.
-Usage
+<br>
+<h2>Usage</h2>
+<br>
 This project is designed to demonstrate front-end skills, focusing on HTML and CSS. It's ideal for those looking to understand layout, design, and basic responsive techniques in web development.
-
-Future Enhancements
+<br>
+<h2>Future Enhancements</h2>
+<br>
 Add JavaScript for interactivity (e.g., dynamic search, shopping cart functionality).
+<br>
 Integrate a back-end to handle user data and product listings.
-Contributing
+<br>
+<h2>Contributing</h2>
+<br>
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+<br>
 
-License
+<h2>License</h2>
+<br>
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any inquiries or feedback, feel free to reach out to yourname@example.com.
+<br>
+<h2>Contact</h2>
+<br>
+For any inquiries or feedback, feel free to reach out to safeenach01@gmail.com
 <br>
